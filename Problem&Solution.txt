@@ -1,0 +1,12 @@
+ PROBLEM STATEMENT: To make pepole aware about diseases and also they can fix appointment with particular doctor.
+
+SOLUTION ::
+   Made an android application where patient can fix appointment with the doctor and can make payment online.
+   Also user can see information about various diseases with symptoms and their preventions & precautions. 
+   The appointment data will be send to the particular doctor according to patient.
+
+
+ Platform used:: Android Studio
+		 Firebase
+		 Java,xml Language
+			
