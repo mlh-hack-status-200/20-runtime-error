@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.AnimalFragment"
+    android:background="#FFF"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="80dp"
+        android:src="@drawable/logo"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"/>
+
+
+    <ScrollView
+     android:layout_width="match_parent"
+     android:layout_height="match_parent">
+
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:orientation="vertical">
+
+  <TextView
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+   android:layout_gravity="center"
+   android:layout_marginHorizontal="20dp"
+   android:textSize="20sp"
+   android:layout_marginTop="10dp"
+   android:textColor="#000"
+   android:text="Scientists are focused on identifying causes and cures for
+autoimmune and immune system diseases including type 1 diabetes, rheumatoid arthritis,
+multiple sclerosis, lupus and many more. BRI also works with Virginia Mason Medical Center in
+other areas of disease research and clinical studies such as heart disease and cancer..."/>
+
+ <TextView
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_gravity="start"
+     android:layout_marginHorizontal="20dp"
+     android:textSize="24sp"
+     android:layout_marginTop="10dp"
+     android:textColor="#000"
+     android:textStyle="bold"
+     android:text="Autoimmune Diseases"/>
+
+ <TextView
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_gravity="start"
+     android:layout_marginHorizontal="20dp"
+     android:textSize="20sp"
+     android:layout_marginTop="2dp"
+     android:textColor="#000"
+     android:text="Autoimmune diseases strike one in 15 Americans including about 18
+million women and 5 million men. Autoimmune diseases are among the top 10 causes of death
+in female children and women in all age groups up to 64 years of age. The National Institutes
+of Health estimate autoimmune diseases cost an estimated $100 billion a year in medical care."/>
+
+
+   <TextView
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_gravity="start"
+       android:layout_marginHorizontal="20dp"
+       android:textSize="24sp"
+       android:layout_marginTop="10dp"
+       android:textColor="#000"
+       android:textStyle="bold"
+       android:text="What causes Autoimmune Diseases?"/>
+
+   <TextView
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_gravity="start"
+       android:layout_marginHorizontal="20dp"
+       android:textSize="20sp"
+       android:layout_marginTop="2dp"
+       android:textColor="#000"
+       android:text="What causes the immune system to no longer tell the difference between
+healthy body tissues and an infection is unknown. One theory is that bacteria, viruses,
+toxins or drugs may trigger some of these changes, especially in people who have genes that make
+them more likely to develop autoimmune disorders.
+The immune system is complex and has evolved redundant pathways over millennia in response to
+diverse challenges. Therefore, scientists think that immune dysfunction will need to be treated
+with combinations of approaches."/>
+
+
+   <TextView
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_gravity="start"
+       android:layout_marginHorizontal="20dp"
+       android:textSize="24sp"
+       android:layout_marginTop="10dp"
+       android:textColor="#000"
+       android:textStyle="bold"
+       android:text="Type 1 Diabetes"/>
+
+
+   <ImageView
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:layout_marginTop="10dp"
+    android:layout_marginHorizontal="20dp"
+       android:layout_marginBottom="5dp"
+    android:src="@drawable/di"/>
+
+   <TextView
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_gravity="start"
+       android:layout_marginHorizontal="20dp"
+       android:textSize="20sp"
+       android:layout_marginTop="2dp"
+       android:textColor="#000"
+       android:text="Type 1 diabetes is an autoimmune disease in which the body's immune system
+attacks and destroys the beta cells in the pancreas that make insulin. People with this disease
+must inject themselves with insulin in order to stay alive. They must carefully monitor their
+blood sugar, and also balance their food intake and exercise. Long-term complications of type
+1 diabetes include disabling or even life-threatening organ damage, including heart disease,
+kidney disease, blindness and nerve damage..."/>
+
+
+   <TextView
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_gravity="start"
+       android:layout_marginHorizontal="20dp"
+       android:textSize="24sp"
+       android:layout_marginTop="10dp"
+       android:textColor="#000"
+       android:textStyle="bold"
+       android:text="Multiple sclerosis (MS)"/>
+
+
+   <ImageView
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:layout_marginTop="10dp"
+       android:layout_marginHorizontal="20dp"
+       android:layout_marginBottom="5dp"
+       android:src="@drawable/ms"/>
+
+   <TextView
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_gravity="start"
+       android:layout_marginHorizontal="20dp"
+       android:textSize="20sp"
+       android:layout_marginTop="2dp"
+       android:textColor="#000"
+       android:text="Multiple sclerosis (MS) is an autoimmune disease in which the body’s
+immune system mistakenly attacks myelin, the fatty substance that surrounds and protects the
+nerve fibers in the central nervous system. "/>
+
+
+   <ImageView
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:layout_marginTop="10dp"
+       android:layout_marginHorizontal="20dp"
+       android:layout_marginBottom="5dp"
+       android:src="@drawable/ms2"/>
+
+   <TextView
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_gravity="start"
+       android:layout_marginHorizontal="20dp"
+       android:textSize="20sp"
+       android:layout_marginTop="2dp"
+       android:textColor="#000"
+       android:text=" When the myelin is damaged, the nerve impulses are not transmitted as
+quickly or efficiently, resulting in symptoms such as numbness in the limbs, fatigue, dizziness,
+paralysis and/or loss of vision.
+Symptoms of MS will often improve and relapse with time and vary from one person to another.
+In progressive forms of multiple sclerosis, they gradually worsen."/>
+
+
+  </LinearLayout>
+
+ </ScrollView>
+
+
+</LinearLayout>

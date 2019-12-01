@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1062646268835",
+    "firebase_url": "https://save-animals-68786.firebaseio.com",
+    "project_id": "save-animals-68786",
+    "storage_bucket": "save-animals-68786.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062646268835:android:60236689d0cd7ccd7ad016",
+        "android_client_info": {
+          "package_name": "com.example.saveanimals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062646268835-h6bejhtkumu83m3gudo199g4s86a6t1h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saveanimals",
+            "certificate_hash": "5015dfb4ae225dc61246d3abbe1eb316dcada24f"
+          }
+        },
+        {
+          "client_id": "1062646268835-1p2b9d7a681bstooln08pe8jfd9i5o1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9vG3Xpi9j1Q78yLonir-nSIeeQRoUmq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062646268835-1p2b9d7a681bstooln08pe8jfd9i5o1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
